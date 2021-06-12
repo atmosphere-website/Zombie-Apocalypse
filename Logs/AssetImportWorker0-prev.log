@@ -1,0 +1,455 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kaeljohnston/Desktop/Unity/Projects/Zombie Apocalypse
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63404
+Successfully changed project path to: /Users/kaeljohnston/Desktop/Unity/Projects/Zombie Apocalypse
+/Users/kaeljohnston/Desktop/Unity/Projects/Zombie Apocalypse
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 149.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kaeljohnston/Desktop/Unity/Projects/Zombie Apocalypse/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-30 13:20:15.342 Unity[13207:820217] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-05-30 13:20:15.342 Unity[13207:820217] Metal devices available: 1
+2021-05-30 13:20:15.342 Unity[13207:820217] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-05-30 13:20:15.344 Unity[13207:820217] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56207
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005381 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 196.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.389 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004150 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 112.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.279 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3521 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 339.7 MB.
+System memory in use after: 339.3 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 3968.
+Total: 4.539003 ms (FindLiveObjects: 0.656862 ms CreateObjectMapping: 0.231903 ms MarkObjects: 3.194399 ms  DeleteObjects: 0.453914 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Stuffs/Fonts/Gruppo.zip
+  artifactKey: Guid(5be4c071ffd4c4ab6aa5931c77b99d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Gruppo.zip using Guid(5be4c071ffd4c4ab6aa5931c77b99d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db24692cbd25de900fcbf7c60513101') in 2.500606 seconds
+  Import took 2.509044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Bold SDF.asset
+  artifactKey: Guid(bcc38ed1e93d94346acee766158b28b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Bold SDF.asset using Guid(bcc38ed1e93d94346acee766158b28b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launching external process: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Launching external process: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Users/kaeljohnston/Desktop/Unity/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+ -> (artifact id: '200a15720661a2756f09d80aa03d3501') in 5.313242 seconds
+  Import took 5.329674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002095 seconds.
+  path: Assets/Stuffs/Fonts/Gruppo
+  artifactKey: Guid(007d7a3d5096b47579691242a1a7515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Gruppo using Guid(007d7a3d5096b47579691242a1a7515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06634706aa4ddb7777f66879a8955fce') in 0.003539 seconds
+  Import took 0.015709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000928 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Bold SDF.asset
+  artifactKey: Guid(bcc38ed1e93d94346acee766158b28b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Bold SDF.asset using Guid(bcc38ed1e93d94346acee766158b28b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200a15720661a2756f09d80aa03d3501') in 0.152490 seconds
+  Import took 0.166427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Stuffs/Fonts/Gruppo/Gruppo-Regular.ttf
+  artifactKey: Guid(65e17ed5163a749b1b5c94222a7047ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Gruppo/Gruppo-Regular.ttf using Guid(65e17ed5163a749b1b5c94222a7047ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127d8e1c887b99f7e8abdf92e4fe7e30') in 3.613935 seconds
+  Import took 3.627921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.825065 seconds.
+  path: Assets/Stuffs/Fonts/Gruppo-Regular SDF.asset
+  artifactKey: Guid(fa60f2f1af79d4cf3b5e510adeff378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Gruppo-Regular SDF.asset using Guid(fa60f2f1af79d4cf3b5e510adeff378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7248bb44761c15577b942e4da5518613') in 0.142508 seconds
+  Import took 0.157592 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.169 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3256 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 363.1 MB.
+System memory in use after: 362.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4142.
+Total: 4.932181 ms (FindLiveObjects: 0.388095 ms CreateObjectMapping: 0.155614 ms MarkObjects: 3.934209 ms  DeleteObjects: 0.452033 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9588.077656 seconds.
+  path: Assets/Stuffs/Fonts/Gruppo-Regular SDF.asset
+  artifactKey: Guid(fa60f2f1af79d4cf3b5e510adeff378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Gruppo-Regular SDF.asset using Guid(fa60f2f1af79d4cf3b5e510adeff378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bef045bae4b33380d1bb6f0912eb17') in 1.460809 seconds
+  Import took 1.479937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001392 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-SemiBold.ttf
+  artifactKey: Guid(14d0fef6026fd45828e07244821d6574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-SemiBold.ttf using Guid(14d0fef6026fd45828e07244821d6574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6005ca8d763ee1cb0c23c5206c96a4') in 0.082012 seconds
+  Import took 0.098251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-BoldItalic.ttf
+  artifactKey: Guid(b0ed262352b3d4bf098cbbf54a48c62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-BoldItalic.ttf using Guid(b0ed262352b3d4bf098cbbf54a48c62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9334ef3686b143ccd8c8b0d07e2ab1f') in 0.086025 seconds
+  Import took 0.097145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-BlackItalic.ttf
+  artifactKey: Guid(771e70ab265554269a07fd58bd9ed41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-BlackItalic.ttf using Guid(771e70ab265554269a07fd58bd9ed41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547b4f868799061ad320be3af18140e4') in 0.061340 seconds
+  Import took 0.077922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-ExtraLight.ttf
+  artifactKey: Guid(be0c1904983d64ea89667ada86dd7da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-ExtraLight.ttf using Guid(be0c1904983d64ea89667ada86dd7da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b821f62ba62a22b8e5e1351e71019bc9') in 0.045356 seconds
+  Import took 0.052789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-SemiBoldItalic.ttf
+  artifactKey: Guid(374c00e7e82f44356bd61ac8379902d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-SemiBoldItalic.ttf using Guid(374c00e7e82f44356bd61ac8379902d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a5acd3bc3f4136a401e8709cfabf5d') in 0.067559 seconds
+  Import took 0.085486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Thin.ttf
+  artifactKey: Guid(fe74fc853189645609f2b5589157d709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Thin.ttf using Guid(fe74fc853189645609f2b5589157d709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04959fd14fcb670b57d8d17b5805d84') in 0.058911 seconds
+  Import took 0.076524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001768 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Light.ttf
+  artifactKey: Guid(bacef2ccfccaa4acca1db267aaeaf281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Light.ttf using Guid(bacef2ccfccaa4acca1db267aaeaf281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3252d01f19cb2ca19b9edf3f4bb955') in 0.117304 seconds
+  Import took 0.130099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Italic.ttf
+  artifactKey: Guid(a8281c02c97d7493a9805f1ad694fb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Italic.ttf using Guid(a8281c02c97d7493a9805f1ad694fb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e8bc6d91bcc1d5ce981f1183549bb2') in 0.077649 seconds
+  Import took 0.094888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000820 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-LightItalic.ttf
+  artifactKey: Guid(20164439b9ee949a1a26cdfd981755c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-LightItalic.ttf using Guid(20164439b9ee949a1a26cdfd981755c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4888a927831357008cd987710dabff') in 0.046622 seconds
+  Import took 0.055986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Bold.ttf
+  artifactKey: Guid(bf74f39527a9e4c45b61494a7c7b3a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Bold.ttf using Guid(bf74f39527a9e4c45b61494a7c7b3a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7050094c469a3f60d7c64d525a56c649') in 0.044593 seconds
+  Import took 0.056700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-ExtraBold.ttf
+  artifactKey: Guid(ec395df24d7864dd7b7642151e3bdef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-ExtraBold.ttf using Guid(ec395df24d7864dd7b7642151e3bdef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c43981da1cdf9a3a3024da6c22840d') in 0.071995 seconds
+  Import took 0.083683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-ExtraBoldItalic.ttf
+  artifactKey: Guid(b21a309aa1aa6416db2f7de7d2bd27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-ExtraBoldItalic.ttf using Guid(b21a309aa1aa6416db2f7de7d2bd27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f36aad0e5852a1fbe5517f8b34629b') in 0.036208 seconds
+  Import took 0.049225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Black.ttf
+  artifactKey: Guid(5d4b3bfedb1154d7c8d97db157388b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Black.ttf using Guid(5d4b3bfedb1154d7c8d97db157388b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b539ad1036c98e0d39f991e74e10d7') in 0.071654 seconds
+  Import took 0.088287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000954 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-ThinItalic.ttf
+  artifactKey: Guid(9de4c0f27cc9348fa83fbb5c27d70af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-ThinItalic.ttf using Guid(9de4c0f27cc9348fa83fbb5c27d70af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f9262a1913a2cfeb323b166de3c199') in 0.055440 seconds
+  Import took 0.074365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Regular.ttf
+  artifactKey: Guid(bf58b4545e5e14e84be89302ebb80554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Regular.ttf using Guid(bf58b4545e5e14e84be89302ebb80554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204e31758739750ab1206e552f2ead6c') in 0.074401 seconds
+  Import took 0.083951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-MediumItalic.ttf
+  artifactKey: Guid(07aef213bfdb74beba4b460f90f7f959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-MediumItalic.ttf using Guid(07aef213bfdb74beba4b460f90f7f959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d3f222f3dfa57c319419cb1b8ba5eb') in 0.052785 seconds
+  Import took 0.063169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-ExtraLightItalic.ttf
+  artifactKey: Guid(a5e8ee6b2a9604564b2e703fd9fe1f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-ExtraLightItalic.ttf using Guid(a5e8ee6b2a9604564b2e703fd9fe1f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6784b5e278e0a8aaaa828d0953f45db7') in 0.067031 seconds
+  Import took 0.078837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001353 seconds.
+  path: Assets/Stuffs/Fonts/Montserrat-Medium.ttf
+  artifactKey: Guid(42dd17dfc4e774170ac226bd509e49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Fonts/Montserrat-Medium.ttf using Guid(42dd17dfc4e774170ac226bd509e49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0836d28ff74166a030e0398004a7c2e1') in 0.041338 seconds
+  Import took 0.054508 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.516 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 378.3 MB.
+System memory in use after: 378.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4247.
+Total: 6.282052 ms (FindLiveObjects: 1.046543 ms CreateObjectMapping: 0.234489 ms MarkObjects: 4.564186 ms  DeleteObjects: 0.433385 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.551 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 378.8 MB.
+System memory in use after: 378.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4250.
+Total: 7.752442 ms (FindLiveObjects: 1.013513 ms CreateObjectMapping: 0.417558 ms MarkObjects: 5.688968 ms  DeleteObjects: 0.629963 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.569 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 379.2 MB.
+System memory in use after: 378.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4253.
+Total: 7.318457 ms (FindLiveObjects: 0.838691 ms CreateObjectMapping: 0.311383 ms MarkObjects: 5.564040 ms  DeleteObjects: 0.602290 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1388.797099 seconds.
+  path: Assets/Stuffs/Materials/Grounds.mat
+  artifactKey: Guid(7bd05398eaf6e4fa685b59da7e30c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Materials/Grounds.mat using Guid(7bd05398eaf6e4fa685b59da7e30c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0491d1b3b86552caf49e8a89fea4439') in 4.451591 seconds
+  Import took 4.775278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.892549 seconds.
+  path: Assets/InvManeger.cs
+  artifactKey: Guid(8b5426cda34f04b8b88ee94c8bd74f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InvManeger.cs using Guid(8b5426cda34f04b8b88ee94c8bd74f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafa2a7ac914a520c6a6a16a97ec4f8a') in 1.123543 seconds
+  Import took 1.139491 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.971 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 393.1 MB.
+System memory in use after: 392.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4357.
+Total: 4.703847 ms (FindLiveObjects: 0.464329 ms CreateObjectMapping: 0.217903 ms MarkObjects: 3.510432 ms  DeleteObjects: 0.505840 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.468504 seconds.
+  path: Assets/Stuffs/Weapons/Particles/SmokeMaterial.mat
+  artifactKey: Guid(cb6435854d33f428ab833a897d5bac09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Weapons/Particles/SmokeMaterial.mat using Guid(cb6435854d33f428ab833a897d5bac09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aff163e4a517b23bec9337287c7c406') in 2.137587 seconds
+  Import took 2.156473 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 394.6 MB.
+System memory in use after: 394.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4461.
+Total: 5.259039 ms (FindLiveObjects: 0.436438 ms CreateObjectMapping: 0.244953 ms MarkObjects: 4.018540 ms  DeleteObjects: 0.556990 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 395.2 MB.
+System memory in use after: 394.9 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4464.
+Total: 4.744749 ms (FindLiveObjects: 0.476052 ms CreateObjectMapping: 0.208248 ms MarkObjects: 3.634559 ms  DeleteObjects: 0.423600 ms)
+

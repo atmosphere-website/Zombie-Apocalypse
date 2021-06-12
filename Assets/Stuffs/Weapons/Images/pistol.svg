@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="100" height="40">
+  <polyline fill="#444444" stroke="none" points="
+    5,0
+    90,0
+    100,15
+    15,15"/>
+  <line x1="15" y1="10" x2="90" y2="10" stroke="#333333" stroke-linecap="round"/>
+  <polyline fill="#666666" stroke="none" points="
+    5,0
+    90,0
+    95,7.5
+    10,7.5"/>
+  <!--top shading line-->
+  <line x1="10" y1="5" x2="60" y2="5" stroke="#333333" stroke-linecap="round"/>
+  <!--Diagonal shading lines-->
+  <line x1="65" y1="2" x2="67" y2="6" stroke="#333333" stroke-linecap="round"/>
+  <line x1="70" y1="2" x2="72" y2="6" stroke="#333333" stroke-linecap="round"/>
+  <line x1="75" y1="2" x2="77" y2="6" stroke="#333333" stroke-linecap="round"/>
+  <!--handle-->
+  <polyline fill="#221100" points="
+    80,15
+    100,40
+    85,40
+    65,15"/>
+  <polyline fill="#442200" points="
+    65,15
+    85,40
+    90,40
+    70,15"/>
+  <!--trigger guard-->
+  <polyline fill="#333333" points="
+    53,15
+    60,25
+    73,25
+    71,22.5
+    61.5,22.5
+    56,15"/>
+</svg>
